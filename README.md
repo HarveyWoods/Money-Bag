@@ -1,3 +1,5 @@
+![HODL Bag](https://static.wixstatic.com/media/0b1a7c_08ccf4779980482bb809b36ee83f1271~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_980,h_551,q_85,usm_0.66_1.00_0.01/0b1a7c_08ccf4779980482bb809b36ee83f1271~mv2_d_3024_4032_s_4_2.jpg)
+
 # About This Repository
 <i>This repository was created by [Harvey Woods](https://www.harveywoods.io) to provide free, open-source software and methods to help you customize your HODL Bag with additional security features. We encourage everyone to browse and contribute to our library of projects so that everyone can securely navigate the block chain market.</i>
 
