@@ -4,6 +4,7 @@
 
 ### Table of Contents
 1. [README](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/README.md)
+2. [TABLE OF CONTENTS](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
 2. [GENERAL INFORMATION](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/General%20Information.md)
 
 ### About HODL Bag
