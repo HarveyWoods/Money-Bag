@@ -5,7 +5,7 @@
 ### Overview
 <i>Over 3 Million Bitcoin have been lost forever; representing a $21 Billion (USD) problem in the block chain market.</i>
 
-HODL Bag solves this problem with a secure locking bag designed specifically for organizing, storing, and protecting private key, back-up seed, and 2FA information.
+<b>HODL Bag solves this problem with a secure locking bag designed specifically for organizing, storing, and protecting private key, back-up seed, and 2FA information.</b>
 
 ### How Does It Work?
 HODL Bag provides a <i>physical security layer</i> that greatly reduces the risk of sensitive investment information or storage devices from becoming lost, damaged, or stolen.
