@@ -11,7 +11,7 @@
 HODL Bag provides a <i>physical security layer</i> that greatly reduces the risk of sensitive investment information or storage devices from becoming lost, damaged, or stolen.
 
 ### Who Is It for?
-HODL Bag is for anyone involved with and/or investing in cryptocurrencies.
+HODL Bag is an industry standard for anyone involved with and/or investing in cryptocurrencies.
 
 ### Common Use Cases
 1. Storing Private Keys (Bitcoin, Ethereum, SolarCoin, PotCoin, DASH, etc.)
