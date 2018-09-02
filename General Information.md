@@ -3,12 +3,14 @@
 <i>This section provides general product information for [HODL Bag by Harvey Woods](https://www.harveywoods.io/capital).</i>
 
 ### Overview
-HODL Bag is a secure locking bag by Harvey Woods that is designed specifically for storing private keys, cold-storage devices, and other forms of sensitive information.
+<i>Over 3 Million Bitcoin have been lost forever; representing a $21 Billion (USD) problem in the block chain market.</i>
 
-### How Does HODL Bag Work?
-HODL Bag creates a <i>physical security layer</i> that greatly reduces the risk of private keys and cold-storage devices becoming lost, damaged, or stolen.
+HODL Bag solves this problem with a secure locking bag designed specifically for organizing, storing, and protecting private key, back-up seed, and 2FA information.
 
-### Who is HODL Bag for?
+### How Does It Work?
+HODL Bag provides a <i>physical security layer</i> that greatly reduces the risk of sensitive investment information or storage devices from becoming lost, damaged, or stolen.
+
+### Who Is It for?
 HODL Bag is for anyone involved with and/or investing in cryptocurrencies.
 
 ### Common Use Cases
