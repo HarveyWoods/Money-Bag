@@ -6,4 +6,4 @@
 Over 3 Million Bitcoin have been lost forever, costing investors over $27 Billion (USD). To solve this problem, the team at Harvey Woods created HODL Bag, which was designed to provide the most secure, cost-effective, and globally accessible method of securing cryptocurrency investments without the need for a traditional banking institution.
 
 ### Table of Contents
-1. General Information
+1. [General Information](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/General%20Information.md)
