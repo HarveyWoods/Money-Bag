@@ -1,8 +1,9 @@
-# The-HODL-Bag
-This repository is filled with free, open-source software and methods to help you customize your HODL Bag.
+![HODL Bag](https://static.wixstatic.com/media/0b1a7c_08ccf4779980482bb809b36ee83f1271~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_980,h_551,q_85,usm_0.66_1.00_0.01/0b1a7c_08ccf4779980482bb809b36ee83f1271~mv2_d_3024_4032_s_4_2.jpg)
+# HODL Bag
+### By Harvey Woods
+The HODL Bag is a secure locking bag for storing private keys, cold-storage devices, and other forms of sensitive information from becoming lost, damaged, and/or stolen.
 
-###### What is the HODL Bag?
-The HODL Bag is a secure locking bag for storing private keys, cold-storage devices, passwords, api keys, account information, and other forms of sensitive data.
+<i>If you do not have HODL Bag, visit the [Official Store](https://www.harveywoods.io/product-page) before continuing with this repository.
 
 ###### What does HODL Bag do?
 The HODL Bag serves is a physical security layer (cannot be connected to the Internet) for your digital assets and greatly reduces the risk of your digital assets becoming lost, damaged, or stolen.
@@ -29,7 +30,7 @@ Gray
 Framed Window Name Plate Allows Individual Identification Customization.
 
 ###### Additional Information
-There is nothing worse than losing Bitcoin. #HODLBag
+Remember, there is <b>nothing</b> worse than losing Bitcoin. #HODLBag
 
-Made in America.
+Proudly Made in America.
 
