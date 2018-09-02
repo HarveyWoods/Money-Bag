@@ -2,7 +2,7 @@
 # General Information
 <i>This section provides general product information for [HODL Bag by Harvey Woods](https://www.harveywoods.io/capital).</i>
 
-### HODL Bag Overview
+### Overview
 <i>Over 3 Million Bitcoin have been lost forever; representing a $21 Billion (USD) problem in the block chain market.</i>
 
 <b>HODL Bag solves this problem with a secure locking bag designed specifically for organizing, storing, and protecting private key, back-up seed, and 2FA information.</b>
