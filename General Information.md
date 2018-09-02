@@ -18,7 +18,7 @@ HODL Bag is an industry standard for anyone involved with and/or investing in cr
 2. Cold-Storage Devices (Nano Ledger S, Trezor, and/or Paper Wallets)
 3. Passwords and Back-Ups (Exchange Account Information, 2FA Codes, Brain Wallets, and/or API Keys)
 
-#### Other Use Cases
+#### <i>Other Use Cases</i>
 1. Securing Prescription Medications
 2. Securing Cold-Storage Devices From Becoming Lost, Damaged, or Stolen.
 3. Securing Home, Car, Birth, and Other Forms of Sensitive, Personally Identifiable Information.
