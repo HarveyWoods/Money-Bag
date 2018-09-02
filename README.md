@@ -6,4 +6,4 @@ Over 3 Million Bitcoin have been lost forever, costing investors over $27 Billio
 
 If you do not have HODL Bag, please visit the [official store](https://www.harveywoods.io/product-page).
 
-### [CONTINUE](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
+[CONTINUE (TABLE OF CONTENTS](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
