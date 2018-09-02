@@ -40,7 +40,7 @@ Gray
 Framed Window Name Plate Allows Individual Identification Customization.
 
 #### Additional Information
-Remember, there is <b>nothing</b> worse than losing Bitcoin. #HODLBag
+<i>There is <b>nothing</b> worse than losing Bitcoin.</i> #HODLBag
 
-Proudly Made in America.
+![USA](https://static.wixstatic.com/media/0b1a7c_ffcf5e8a7aec41469eeab6ce60ab4747~mv2.png/v1/fill/w_57,h_28,al_c,q_80,usm_0.66_1.00_0.01/0b1a7c_ffcf5e8a7aec41469eeab6ce60ab4747~mv2.webp) <b>This product is proudly Made In America</b>
 
