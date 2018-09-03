@@ -122,3 +122,6 @@ Information is powerful, and can be overwhelming at first, but putting security 
 <b>Takeaway V</b>: Security Isn't A Chore, It's An Opportunity - We often find good security measures to be a burden, but the better mindset to have is one where you view security as an opportunity to bring yourself peace of mind in an uncertain and turbulent world. This is somewhat paradoxical since achieving peace of mind requires first understanding the threats, which often leads to more concern than can be resolved.
 
 <i>Keep an eye out for part 2 of this guide where I analyze the different types of cryptocurrency wallet types and weigh the pros and cons against my own implementation that will be revealed in part 3. Obviously following me would make that easier :) If you'd like to buy me a beer, send some love over to Tomshwom.eth.</i>
+
+[RETURN TO TABLE OF CONTENTS](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
+
