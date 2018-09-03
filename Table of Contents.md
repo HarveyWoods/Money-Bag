@@ -1,5 +1,5 @@
 # Table of Contents
-<i>Discover different ways to customize your HODL Bag.</i>
+<i>Discover different ways to customize your [HODL Bag](https://www.harveywoods.io) with free, open-source products and methods from the top minds in the industry.</i>
 
 ### [Table of Contents](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
 1. [README](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/README.md)
