@@ -49,4 +49,6 @@ Framed Window Name Plate Allows Individual Identification Customization.
 
 <b>Made In America</b>
 
+[CONTINUE (PRIVACY, SECURITY, AND TRUST)](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Privacy%2C%20Security%2C%20and%20Trust.md)
+
 [RETURN TO TABLE OF CONTENTS](https://github.com/HarveyWoods/The-HODL-Bag/blob/master/Table%20of%20Contents.md)
