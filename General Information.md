@@ -19,10 +19,10 @@ HODL Bag is an industry standard for anyone involved with and/or investing in cr
 3. Passwords and Back-Ups (Exchange Account Information, 2FA Codes, Brain Wallets, and/or API Keys)
 
 #### <i>Other Use Cases</i>
-1. Securing Prescription Medications
 2. Securing Cold-Storage Devices From Becoming Lost, Damaged, or Stolen.
 3. Securing Home, Car, Birth, and Other Forms of Sensitive, Personally Identifiable Information.
-4. Shipping Sensitive Documentation, such as SolarCoin Treasuries, by Mail.
+4. Shipping Sensitive Documentation by Mail.
+5. Securing Dietary Supplements.
 
 ### Features
 1. High Security, Tamper-Resistant 7-Pin Tumbler Locking Mechanism.
